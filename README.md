@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Radek
+- 👋 Hi, I’m Radek
 - 👀 I’m interested in programming, travelling, sport etc
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on any Java projects
