@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on any Java projects
 - 📫 How to reach me rkuzel@hotmail.com, https://www.linkedin.com/in/radekkuzel/
-- Here are my repos during my study in GFA https://github.com/Radek2rady/List-repos
