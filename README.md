@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Radek
 - 👀 I’m interested in programming, travelling, sport etc
-- 🌱 I’m currently working as junior Kotlin and Java developer
+- 🌱 I’m currently working as Kotlin and Java developer
 - 💞️ I’m looking to collaborate on any Java, Kotlin, Rust etc projects
 - 📫 How to reach me rkuzel@hotmail.com, https://www.linkedin.com/in/radekkuzel/
