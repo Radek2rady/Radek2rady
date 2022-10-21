@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Radek
 - 👀 I’m interested in programming, travelling, sport etc
 - 🌱 I’m currently working as Kotlin and Java developer
-- 💞️ I’m looking to collaborate on any Java, Kotlin, Rust etc projects
+- 💞️ I’m looking to collaborate on any Java, Kotlin, JS etc projects
 - 📫 How to reach me rkuzel@hotmail.com, https://www.linkedin.com/in/radekkuzel/
 - ### My lists: 
 - #### https://github.com/stars/Radek2rady/lists/javascript
