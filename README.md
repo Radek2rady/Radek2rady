@@ -6,6 +6,7 @@
 - ### My lists:
 - #### https://github.com/stars/Radek2rady/lists/ai
 - #### https://github.com/stars/Radek2rady/lists/kotlin
+- #### https://github.com/stars/Radek2rady/lists/react
 - #### https://github.com/stars/Radek2rady/lists/javascript
 - #### https://github.com/stars/Radek2rady/lists/java
 - #### https://github.com/stars/Radek2rady/lists/python
